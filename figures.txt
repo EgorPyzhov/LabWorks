@@ -1,0 +1,10 @@
+Rectangle;5;6
+Square;4;4
+Figure;3;7
+Rectangle;8;5
+Square;6;6
+Figure;2;9
+Rectangle;7;4
+Square;3;3
+Figure;5;8
+Rectangle;9;6
